@@ -1,0 +1,711 @@
+.LANDING-FR {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .LANDING-FR .div {
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .LANDING-FR .pg {
+    background-color: #ffffff;
+    height: 1024px;
+    left: 0;
+    position: absolute;
+    top: 4096px;
+    width: 1440px;
+  }
+  
+  .LANDING-FR .rectangle {
+    background-color: var(--onyx);
+    height: 2px;
+    left: 62px;
+    position: absolute;
+    top: 152px;
+    width: 1315px;
+  }
+  
+  .LANDING-FR .WELCOME-TO {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 402px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 333px;
+    width: 709px;
+  }
+  
+  .LANDING-FR .in-voluptate-velit {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 30px;
+    font-weight: 300;
+    left: 348px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 432px;
+    width: 763px;
+  }
+  
+  .LANDING-FR .currency-crush {
+    height: 361px;
+    left: 478px;
+    position: absolute;
+    top: 558px;
+    width: 473px;
+  }
+  
+  .LANDING-FR .pg-2 {
+    background-color: #ffffff;
+    height: 1024px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 3072px;
+    width: 1440px;
+  }
+  
+  .LANDING-FR .img {
+    height: 515px;
+    left: 133px;
+    position: absolute;
+    top: 132px;
+    width: 539px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.LANDING-FR .img:hover {
+    transform: scale(1.1); /* Slight zoom effect */
+}
+
+  
+  .LANDING-FR .flexcontainer {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    height: 278px;
+    left: 824px;
+    position: absolute;
+    top: 279px;
+    width: 497px;
+  }
+  
+  .LANDING-FR .text {
+    align-self: stretch;
+    color: #000000;
+    font-family: "Inria Serif", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    position: relative;
+  }
+  
+  .LANDING-FR .span {
+    letter-spacing: 0.10px;
+  }
+  
+  .LANDING-FR .text-wrapper-2 {
+    font-family: "Roboto", Helvetica;
+    font-size: 47px;
+    font-weight: 600;
+    letter-spacing: 0.12px;
+  }
+  
+  .LANDING-FR .flexcontainer-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    height: 278px;
+    left: 175px;
+    position: absolute;
+    top: 773px;
+    width: 497px;
+  }
+  
+  .LANDING-FR .croods-chart {
+    height: 357px;
+    left: 824px;
+    position: absolute;
+    top: 667px;
+    width: 515px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.LANDING-FR .croods-chart:hover {
+    transform: scale(1.1); /* Slight zoom effect */
+}
+
+  
+  .LANDING-FR .pg-3 {
+    background-color: #ffffff;
+    height: 1024px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 2048px;
+    width: 1440px;
+  }
+  
+  .LANDING-FR .amigos-outdoors {
+    height: 471px;
+    left: 136px;
+    position: absolute;
+    top: 30px;
+    width: 519px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.LANDING-FR .amigos-outdoors:hover {
+    transform: scale(1.1); /* Slight zoom effect */
+}
+  
+  .LANDING-FR .flexcontainer-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    height: 364px;
+    left: 806px;
+    position: absolute;
+    top: 147px;
+    width: 546px;
+  }
+  
+  .LANDING-FR .flexcontainer-4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    height: 364px;
+    left: 152px;
+    position: absolute;
+    top: 773px;
+    width: 546px;
+  }
+  
+  .LANDING-FR .currency-crush-2 {
+    height: 380px;
+    left: 806px;
+    position: absolute;
+    top: 644px;
+    width: 505px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.LANDING-FR .currency-crush-2:hover {
+    transform: scale(1.1); /* Slight zoom effect */
+}
+
+  .LANDING-FR .pg-4 {
+    background-color: #ffffff;
+    height: 1024px;
+    left: 0;
+    position: absolute;
+    top: 1024px;
+    width: 1440px;
+  }
+  
+  .LANDING-FR .WELCOME-TO-2 {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 40px;
+    font-weight: 500;
+    left: 370px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 21px;
+    width: 709px;
+  }
+  
+  .LANDING-FR .features-cards {
+    height: 396px;
+    left: 101px;
+    position: absolute;
+    top: 294px;
+    width: 1252px;
+  }
+  
+  .LANDING-FR .modules-card {
+    background-color: #ffeaab;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 392px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 392px;
+  }
+  
+  
+  
+  .LANDING-FR .drawkit {
+    height: 201px;
+    left: 56px;
+    object-fit: cover;
+    position: absolute;
+    top: 57px;
+    width: 273px;
+  }
+  
+  .LANDING-FR .overlap-group-2 {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 308px;
+    white-space: nowrap;
+    width: 300px;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.LANDING-FR .overlap-group-2:hover {
+    color: #FF5733; /* Example hover color */
+    transform: scale(1.05);
+}
+
+  
+  .LANDING-FR .cap-arrow-right {
+    height: 21px !important;
+    left: 329px !important;
+    position: absolute !important;
+    top: 39px !important;
+    width: 20px !important;
+  }
+  
+  .LANDING-FR .learning-modules {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 29px;
+    width: 295px;
+  }
+  
+  .LANDING-FR .ebooks-cards {
+    height: 392px;
+    left: 427px;
+    position: absolute;
+    top: 4px;
+    width: 395px;
+  }
+  
+  .LANDING-FR .overlap {
+    height: 392px;
+    position: relative;
+  }
+  
+  .LANDING-FR .rectangle-2 {
+    background-color: #ff9b9b;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 392px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    width: 392px;
+  }
+
+  
+  .LANDING-FR .rectangle-3 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 110px;
+    width: 393px;
+    position: absolute;
+    top: 282px;
+    left: 0;
+    text-align: center;
+    line-height: 110px;
+    font-weight: bold;
+    cursor: pointer; /* Makes it clickable */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+  }
+  
+  /* Hover effect */
+  .LANDING-FR .rectangle-3:hover {
+    transform: scale(1.05); /* Slight scaling effect on hover */
+    box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.3); /* Soft shadow on hover */
+  }
+  
+  /* Click effect */
+  .LANDING-FR .rectangle-3:active {
+    transform: scale(0.98); /* Slight shrink effect on click */
+  }
+  
+  
+  
+  .LANDING-FR .ebook-pana {
+    height: 169px;
+    left: 97px;
+    position: absolute;
+    top: 65px;
+    width: 190px;
+  }
+  
+  .LANDING-FR .rectangle-4 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 110px;
+    left: 2px;
+    position: absolute;
+    top: 282px;
+    width: 393px;
+    cursor: pointer; /* Makes it clickable */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  .LANDING-FR .rectangle-4:hover {
+    transform: scale(1.05); /* Slight scaling effect on hover */
+    box-shadow: 0px 6px 6px #00000060; /* Darker shadow on hover */
+  }
+  
+  
+  .LANDING-FR .vector {
+    height: 21px;
+    left: 326px;
+    position: absolute;
+    top: 318px;
+    width: 15px;
+    transition: transform 0.3s ease, fill 0.3s ease; /* Smooth transition for scaling and color */
+}
+
+.LANDING-FR .vector:hover {
+    transform: scale(1.1); /* Slightly scale the vector image */
+  
+}
+
+  .LANDING-FR .e-books-videos {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 308px;
+    white-space: nowrap;
+    width: 300px;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.LANDING-FR .e-books-videos:hover {
+    color: #FF5733; /* Example hover color */
+    transform: scale(1.05);
+}
+
+  
+  .LANDING-FR .quizzes-cards {
+    height: 392px;
+    left: 859px;
+    position: absolute;
+    top: 4px;
+    width: 393px;
+  }
+  
+  .LANDING-FR .rectangle-5 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 110px;
+    left: 0;
+    position: absolute;
+    top: 282px;
+    width: 393px;
+  }
+  
+  .LANDING-FR .rounded-rectangle {
+    background-color: #fdb5e3;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 392px;
+    left: 1px;
+    position: absolute;
+    top: 0;
+    width: 392px;
+  }
+  
+  .LANDING-FR .exams-amico {
+    height: 174px;
+    left: 103px;
+    position: absolute;
+    top: 62px;
+    width: 206px;
+  }
+  
+  .LANDING-FR .rectangle-6 {
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 110px;
+    left: 1px;
+    position: absolute;
+    top: 282px;
+    width: 392px;
+    cursor: pointer; /* Makes it clickable */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  .LANDING-FR .rectangle-6:hover {
+    transform: scale(1.05); /* Slight scaling effect on hover */
+    box-shadow: 0px 6px 6px #00000060; /* Darker shadow on hover */
+  }
+  
+  
+  .LANDING-FR .quizzes-challenges {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 312px;
+    white-space: nowrap;
+    width: 325px;
+    transition: color 0.3s ease, transform 0.3s ease; /* Smooth transition for color and transformation */
+}
+
+.LANDING-FR .quizzes-challenges:hover {
+    color: #FF5733; /* Change text color on hover */
+    transform: scale(1.05); /* Slightly scale the element on hover */
+}
+
+  
+.LANDING-FR .vector-2 {
+  height: 21px;
+  left: 352px;
+  position: absolute;
+  top: 321px;
+  width: 15px;
+  transition: transform 0.3s ease; /* Smooth transition for scaling */
+}
+
+.LANDING-FR .vector-2:hover {
+  transform: scale(1.1); /* Slightly scale the vector on hover */
+}
+
+  
+  .LANDING-FR .p {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 32px;
+    font-weight: 300;
+    left: 216px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 93px;
+    width: 1057px;
+  }
+  
+  .LANDING-FR .lorem-ipsum-dolor {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 500;
+    left: 367px;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    position: absolute;
+    top: 883px;
+    width: 664px;
+  }
+  
+  .LANDING-FR .overlap-2 {
+    height: 1024px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .LANDING-FR .pg-5 {
+    background-color: #ffffff;
+    height: 1024px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .LANDING-FR .rectangle-7 {
+    background-color: var(--onyx);
+    height: 2px;
+    left: 62px;
+    position: absolute;
+    top: 936px;
+    width: 1315px;
+  }
+  
+  .LANDING-FR .miroodles-color {
+    height: 459px;
+    left: 798px;
+    position: absolute;
+    top: 320px;
+    width: 538px;
+    animation: zoomIn 1s ease-in; /* Apply zoom-in effect */
+  }
+  
+  @keyframes zoomIn {
+    0% {
+      transform: scale(0.8); /* Start at 80% size */
+    }
+    100% {
+      transform: scale(1); /* End at normal size */
+    }
+  }
+  
+  
+  .LANDING-FR .overlap-3 {
+    height: 49px;
+    left: 1109px;
+    position: absolute;
+    top: 100px;
+    width: 148px;
+  }
+  
+  .LANDING-FR .button-primary-2 {
+    height: 49px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 148px;
+  }
+  
+  .LANDING-FR .bg {
+    background-color: var(--primary);
+    border-radius: 8px;
+    height: 51px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+    width: 150px;
+  }
+  
+  .LANDING-FR .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Montserrat", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 23px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    white-space: nowrap;
+    width: 102px;
+  }
+  
+  .LANDING-FR .button-primary-instance {
+    height: 67px !important;
+    left: 112px !important;
+    position: absolute !important;
+    top: 736px !important;
+    width: 215px !important;
+  }
+  
+  .LANDING-FR .design-component-instance-node {
+    height: 69px !important;
+    width: 217px !important;
+  }
+  
+  .LANDING-FR .button-primary-3 {
+    font-family: "Montserrat", Helvetica !important;
+    font-size: 20px !important;
+    top: 22px !important;
+    width: 215px !important;
+  }
+  
+  .LANDING-FR .button-outline-instance {
+    height: 49px !important;
+    left: 922px !important;
+    position: absolute !important;
+    top: 100px !important;
+    width: 145px !important;
+  }
+  
+  .LANDING-FR .button-outline-2 {
+    font-family: "Montserrat", Helvetica !important;
+    font-weight: 700 !important;
+    top: 11px !important;
+    width: 145px !important;
+  }
+  
+  .LANDING-FR .text-wrapper-4 {
+    color: #191351;
+    font-family: "Vibur", Helvetica;
+    font-size: 50px;
+    font-weight: 500;
+    left: 161px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 102px;
+    white-space: nowrap;
+    width: 351px;
+  }
+  .LANDING-FR .your-next-big {
+    color: #000000;
+    font-family: "Roboto", Helvetica;
+    font-size: 50px;
+    font-weight: 600;
+    left: 108px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 317px;
+    width: 514px;
+    transition: text-shadow 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+.LANDING-FR .your-next-big:hover {
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.8), 
+                 0 0 20px rgba(0, 0, 0, 0.6);
+    transform: scale(1.1); /* Zoom effect */
+}
+
+ .LANDING-FR .text-wrapper-5 {
+    color: #000000;
+    font-family: "Montserrat", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    left: 112px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 557px;
+    width: 362px;
+  }
+  
+  .LANDING-FR .fox {
+    height: 96px;
+    left: 37px;
+    position: absolute;
+    top: 85px;
+    width: 96px;
+  }
+  

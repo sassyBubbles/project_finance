@@ -1,0 +1,1 @@
+export { CapArrowRight } from "./CapArrowRight";

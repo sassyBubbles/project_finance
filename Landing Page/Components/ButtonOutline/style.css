@@ -1,0 +1,49 @@
+.button-outline {
+  border: 1px solid #979797;
+  border-radius: 4px;
+  height: 46px;
+  width: 110px;
+  background-color: transparent;
+  color: #333;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer; /* Makes it clickable */
+  transition: all 0.3s ease-in-out; /* Smooth transition */
+  position: relative;
+  overflow: hidden;
+}
+
+/* Hover effect */
+.button-outline:hover {
+  background-color: #3a5aff;
+  color: #fff;
+  border-color: #333;
+  transform: scale(1.05); /* Slight zoom effect */
+}
+
+/* Active (Click) effect */
+.button-outline:active {
+  transform: scale(0.98); /* Slight press-down effect */
+}
+
+  
+.button-outline .text-wrapper {
+  color: #696969;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: -1px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  width: 110px;
+  transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+.button-outline .text-wrapper:hover {
+  color: white; /* Change text color to white on hover */
+}
+
+  
